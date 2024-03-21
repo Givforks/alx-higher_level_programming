@@ -1,5 +1,4 @@
 #!/usr/bin/node
-#the scopes arelarge
 exports.esrever = function (list) {
   let len = list.length - 1;
   let i = 0;

@@ -8,5 +8,3 @@ class Square extends Rectangle {
 }
 
 module.exports = Square;
-
-#constructor size
